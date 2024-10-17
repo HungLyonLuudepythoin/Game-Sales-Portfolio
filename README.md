@@ -3,8 +3,6 @@
 
 In this project, I performed an in-depth analysis of global and regional game sales from the 1980s to 2020 using time-series data. The goal was to identify trends and patterns across different markets, platforms, genres, and publishers. The analysis was conducted using advanced data visualization techniques in Power BI.
 
-## A brief description of what this project does and who it's for
-
 
 ## Key Responsibilities:
 
